@@ -26,4 +26,4 @@
 *.hex
 *.map
 *.d
-*/driver/*
+*/Drivers/*
