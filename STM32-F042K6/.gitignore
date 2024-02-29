@@ -4,3 +4,4 @@ build
 *.ioc
 *.s
 *.ld
+*.mxproject
