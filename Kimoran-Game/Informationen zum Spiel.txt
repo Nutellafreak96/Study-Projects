@@ -1,0 +1,25 @@
+!!!!!!!!!!!!Das ist ein Spiel, welches nur unter Windows funktioniert!!!!!!!!!!!!!!!
+
+
+
+Die Datei die nur "Kimoran" heißt ist die normale .exe, also Ausführbare Datei.
+Da es ein Konsolenprogramm ist wird ein kleines Fenster mit schwarzen Hintergrund sich öffnen. 
+Dann wirst du gebeten einen Dateipfad anzugeben/einzugeben. 
+Das dient dazu um die Spielwelt zu erstellen und die Informationen sind in der .txt mit dem Namen "Datei für den Spielaufbau"
+Als Dateipfad gibts du dann ungefähr sowas an:
+
+"C:\Users\Kevin\Desktop\Datei für den Spielaufbau"
+
+musst du selber schauen. Am einfachsten setzt du die Datei auf den Desktop. Dann musst du nur schauen auf welcher Festplatte dein Windows liegt (die Festplatte wird meist C genannt) und dann musst du nur noch schauen wie als User auf dem PC gespeichert bist. 
+
+Wenn der Dateipfad eingegeben wurde wird entschieden ob du oder der Computer beginnen darf. Danach bist du dran und nach jedem Zug ist der andere Spieler dran. Du musst nur eine Zahl, von den Insel die in dem Format: [Zahl] Inselname ausgegeben werden, eingeben. Dann wird dir dein Reiseweg ausgegeben und solltest du die Schatzinsel nicht erreicht haben ist der andere Spieler dran.
+
+
+!!!
+Sollte das Spiel unter Windows nicht funktionieren müsstest du dir Visual Studio runterladen, aber das wäre Speicher Verschwendung.
+Die Version Visual Studio 2019 Community wäre kostenlos falls du es dann trotzdem Spielen möchtest. Bei der Installation bräuchtest du nur einen Hacken bei "Desktopentwicklung mit C++" machen. 
+Um das Spiel dann Spielen zu können öffnest du VS(Visual Studio), gehst auf "Neues Projekt erstellen" und gehst auf "Leeres Projekt". 
+Dann erstellst du dir ein Projekt mit einem beliebigen Projektnamen und speicherst dir das Projekt z.B. auf dem Desktop oder wo du möchtest.
+Der Name der Projektmappe wird automatisch auf den Namen deines Projektes gesetzt d.h. du kannst es ignorieren.
+Wenn das Projekt erstellt ist öffnet sich VS und du hast links ein Fenster mit der Überschrift "Projektmappen-Explorer", unten ein Fenster mit der Überschrift "Ausgabe" und sonst einfach ein weißes und leeres Fenster. 
+Um das Programm zum laufen zu bringen musst du zwei Projektdateien zu deinem Projekt hinzufügen. Die nötigen Dateien habe ich dir in den Ordner "Spiel-Dateien" gelegt.

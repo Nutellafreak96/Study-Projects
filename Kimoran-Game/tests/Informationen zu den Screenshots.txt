@@ -1,0 +1,14 @@
+Die ersten 4 Screenshots zeigen einen Spielverlauf zwischen dem Menschliche-Spieler und dem Computer-Spieler.
+
+-Im ersten Screenshot (Screenshot 1.0) ist zu sehen, dass das durch das Einlesen der Datei die einzelnen Objekte der Kimoran Welt erstellt wurden.
+
+- Im zweiten Screenshot (Screenshot 1.1) wird zum einen der Spieler, der den ersten Zug machen darf, ausgegeben als auch eine Liste der zu bereisenden Inseln.  Um zu wissen wie die Inseln miteinander verknüft sind wird eine Liste mit den Verbindungen ausgegeben.
+
+-Der dritte Screenshot (Screenshot 1.2) zeigt einen kleinen Spielverlauf. Der Menschliche-Spieler gibt "2" ein um zu der Insel Beramorin zu reisen. Im wird dabei der Reiseweg ausgegeben und der Computer ist am Zug und bekommt das Menü angezeigt damit er seinen nächsten Zug planen kann. Wenn er seinen Zug getätigt hat, wird auch ihm der Reiseweg ausgegeben.
+
+-Im zweiten Screenshot (Screenshot 1.3) nutzt der menschlcihe-Spieler die "Cheat_Funktion" um als Gewinne aus dem Spiel zu gehen.
+
+Um zu zeigen was ausgegeben wird, wenn die Datei Fehler enthält wie z.B. Insel wurde falsch geschrieben oder es gibt eine andere Verbinsung als die üblichen dre Brücke,Fähre,Tunnel. Dies sollen die Screenshots 2.0-2.3 zeigen. Dabei wir immer alles ausgegeben bis der Fehler auftritt.
+Screenshot 3.0 zeigt was passiert, wenn man die Inseln umbenennt. Dabei muss nur darauf geachtet werden, dass auch die Verbindungen zwischen den Inseln aktualisiert werden d.h. sollte eine Verbindung noch von einer alten, nicht existierenden Insel, ausgehen funktioniert das Programm nicht mehr.
+
+Auf den Screenshots habe ich bei der Ausgabe des Einlesefortschritts angegeben auf welcher Insel der Schatz als auch die Lager versteckt sind. Das diente nur zur veranschaulichung und wir im fertigen Programm nicht so sein.
