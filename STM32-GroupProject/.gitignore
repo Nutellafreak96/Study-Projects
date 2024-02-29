@@ -1,7 +1,1 @@
-build
-*.swp
 */Drivers/*
-*.ioc
-*.s
-*.ld
-*.mxproject
