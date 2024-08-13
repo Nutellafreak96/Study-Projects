@@ -1,0 +1,14 @@
+How to Use:
+
+- Use make to build the project
+- Execute train
+	- Follow the instructions and pick the values you wanna use to train the Network
+	- Neural Network will be trained and saved in a text file
+	- after the user has the possibility to test the trained Network
+
+DONT EXECUTE TEST BECAUSE IT ISNT IMPLEMENTED FOR NOW!
+
+Not finished:
+
+- test.c
+- test.exe
